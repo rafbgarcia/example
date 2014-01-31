@@ -393,6 +393,7 @@
 				GCC_PREFIX_HEADER = "Example/Example-Prefix.pch";
 				INFOPLIST_FILE = "Example/Example-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "D119BB80-4E75-4A22-A972-094C4AFF3442";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -407,6 +408,7 @@
 				GCC_PREFIX_HEADER = "Example/Example-Prefix.pch";
 				INFOPLIST_FILE = "Example/Example-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "D119BB80-4E75-4A22-A972-094C4AFF3442";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
