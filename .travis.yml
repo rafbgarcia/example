@@ -1,5 +1,5 @@
 language: objective-c
 xcode_project: Example.xcodeproj
 xcode_scheme: Example
-xcode_sdk: iphoneos
+xcode_sdk: iphonesimulator
 
